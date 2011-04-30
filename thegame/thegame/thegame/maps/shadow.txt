@@ -1,0 +1,33 @@
+﻿Texture[textures.blocks.grass] Blocks\Grass Block
+Texture[textures.blocks.rock] Blocks\Stone Block
+
+Texture[textures.shadow.south] Block Shadow\Shadow South
+
+
+Tile[tiles.blocks.grass] textures.blocks.grass|true
+Tile[tiles.blocks.rock]  textures.blocks.rock |true
+
+Tile[tiles.shadow.south]  textures.shadow.south |true
+
+Point[gridSize] 3|3|2
+Point[gridTileOffsets] 50|40|41
+Point[gridTileSize] 101|171|0
+Point[gridOrigin] 0|50|0
+Point[playerStart] 0|0|1
+
+Grid[start] gridSize|gridOrigin|gridTileOffsets|gridTileSize|playerStart
+
+Cell[] 0|0|0|start|tiles.blocks.grass
+Cell[] 1|0|0|start|tiles.blocks.grass
+Cell[] 2|0|0|start|tiles.blocks.grass
+
+Cell[] 0|1|0|start|tiles.blocks.grass
+#Cell[] 1|1|0|start|tiles.blocks.grass
+Cell[] 2|1|0|start|tiles.blocks.grass
+
+#Cell[] 0|2|0|start|tiles.blocks.grass
+#Cell[] 1|2|0|start|tiles.blocks.grass
+Cell[] 2|2|0|start|tiles.blocks.grass
+
+Cell[] 1|1|1|start|tiles.blocks.rock
+#Cell[] 1|2|1|start|tiles.shadow.south

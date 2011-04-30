@@ -1,0 +1,2 @@
+C:\game\thegame\thegame\thegameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\game\gitgame2\thegame\thegame\thegameContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Blocks\Brown Block.png</Source>
+      <Name>Blocks\Brown Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Brown Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.2130433-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Character Boy.png</Source>
+      <Name>Character\Character Boy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Character Boy.xnb</Output>
+      <Time>2011-04-26T16:21:22.2170435-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Character Cat Girl.png</Source>
+      <Name>Character\Character Cat Girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Character Cat Girl.xnb</Output>
+      <Time>2011-04-26T16:21:22.2210438-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Character Horn Girl.png</Source>
+      <Name>Character\Character Horn Girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Character Horn Girl.xnb</Output>
+      <Time>2011-04-26T16:21:22.3600517-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Character Pink Girl.png</Source>
+      <Name>Character\Character Pink Girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Character Pink Girl.xnb</Output>
+      <Time>2011-04-26T16:21:22.3620518-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Character Princess Girl.png</Source>
+      <Name>Character\Character Princess Girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Character Princess Girl.xnb</Output>
+      <Time>2011-04-26T16:21:22.365052-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Chest Closed.png</Source>
+      <Name>Items\Chest Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Chest Closed.xnb</Output>
+      <Time>2011-04-26T16:21:22.3670521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Chest Lid.png</Source>
+      <Name>Items\Chest Lid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Chest Lid.xnb</Output>
+      <Time>2011-04-26T16:21:22.3690522-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Chest Open.png</Source>
+      <Name>Items\Chest Open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Chest Open.xnb</Output>
+      <Time>2011-04-26T16:21:22.3710523-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Dirt Block.png</Source>
+      <Name>Blocks\Dirt Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Dirt Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.3730525-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Door Tall Closed.png</Source>
+      <Name>Building\Door Tall Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Door Tall Closed.xnb</Output>
+      <Time>2011-04-26T16:21:22.3750526-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Door Tall Open.png</Source>
+      <Name>Building\Door Tall Open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Door Tall Open.xnb</Output>
+      <Time>2011-04-26T16:21:22.3770527-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Enemy Bug.png</Source>
+      <Name>Character\Enemy Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Character\Enemy Bug.xnb</Output>
+      <Time>2011-04-26T16:21:22.3780527-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Gem Blue.png</Source>
+      <Name>Items\Gem Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Gem Blue.xnb</Output>
+      <Time>2011-04-26T16:21:22.3810529-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Gem Green.png</Source>
+      <Name>Items\Gem Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Gem Green.xnb</Output>
+      <Time>2011-04-26T16:21:22.383053-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Gem Orange.png</Source>
+      <Name>Items\Gem Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Gem Orange.xnb</Output>
+      <Time>2011-04-26T16:21:22.4540571-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Grass Block.png</Source>
+      <Name>Blocks\Grass Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Grass Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.4570573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Heart.png</Source>
+      <Name>Items\Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Heart.xnb</Output>
+      <Time>2011-04-26T16:21:22.4580573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Key.png</Source>
+      <Name>Items\Key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Key.xnb</Output>
+      <Time>2011-04-26T16:21:22.4610575-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Plain Block.png</Source>
+      <Name>Blocks\Plain Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Plain Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.4630576-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Ramp East.png</Source>
+      <Name>Other Terrain\Ramp East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Ramp East.xnb</Output>
+      <Time>2011-04-26T16:21:22.5850646-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Ramp North.png</Source>
+      <Name>Other Terrain\Ramp North</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Ramp North.xnb</Output>
+      <Time>2011-04-26T16:21:22.5910649-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Ramp South.png</Source>
+      <Name>Other Terrain\Ramp South</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Ramp South.xnb</Output>
+      <Time>2011-04-26T16:21:22.5970653-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Ramp West.png</Source>
+      <Name>Other Terrain\Ramp West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Ramp West.xnb</Output>
+      <Time>2011-04-26T16:21:22.6050657-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Rock.png</Source>
+      <Name>Items\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Rock.xnb</Output>
+      <Time>2011-04-26T16:21:22.6110661-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof East.png</Source>
+      <Name>Building\Roof East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof East.xnb</Output>
+      <Time>2011-04-26T16:21:22.6170664-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof North East.png</Source>
+      <Name>Building\Roof North East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof North East.xnb</Output>
+      <Time>2011-04-26T16:21:22.6230668-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof North West.png</Source>
+      <Name>Building\Roof North West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof North West.xnb</Output>
+      <Time>2011-04-26T16:21:22.6290671-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof North.png</Source>
+      <Name>Building\Roof North</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof North.xnb</Output>
+      <Time>2011-04-26T16:21:22.6360675-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof South East.png</Source>
+      <Name>Building\Roof South East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof South East.xnb</Output>
+      <Time>2011-04-26T16:21:22.644068-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof South West.png</Source>
+      <Name>Building\Roof South West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof South West.xnb</Output>
+      <Time>2011-04-26T16:21:22.6500683-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof South.png</Source>
+      <Name>Building\Roof South</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof South.xnb</Output>
+      <Time>2011-04-26T16:21:22.6570687-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Roof West.png</Source>
+      <Name>Building\Roof West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Roof West.xnb</Output>
+      <Time>2011-04-26T16:21:22.6640691-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Util\Selector.png</Source>
+      <Name>Util\Selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Util\Selector.xnb</Output>
+      <Time>2011-04-26T16:21:22.6710695-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow East.png</Source>
+      <Name>Block Shadow\Shadow East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow East.xnb</Output>
+      <Time>2011-04-26T16:21:22.6770699-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow North East.png</Source>
+      <Name>Block Shadow\Shadow North East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow North East.xnb</Output>
+      <Time>2011-04-26T16:21:22.6840703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow North West.png</Source>
+      <Name>Block Shadow\Shadow North West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow North West.xnb</Output>
+      <Time>2011-04-26T16:21:22.6910707-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow North.png</Source>
+      <Name>Block Shadow\Shadow North</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow North.xnb</Output>
+      <Time>2011-04-26T16:21:22.6980711-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow Side West.png</Source>
+      <Name>Block Shadow\Shadow Side West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow Side West.xnb</Output>
+      <Time>2011-04-26T16:21:22.7050715-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow South East.png</Source>
+      <Name>Block Shadow\Shadow South East</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow South East.xnb</Output>
+      <Time>2011-04-26T16:21:22.7130719-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow South West.png</Source>
+      <Name>Block Shadow\Shadow South West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow South West.xnb</Output>
+      <Time>2011-04-26T16:21:22.7220724-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow South.png</Source>
+      <Name>Block Shadow\Shadow South</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow South.xnb</Output>
+      <Time>2011-04-26T16:21:22.7300729-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Block Shadow\Shadow West.png</Source>
+      <Name>Block Shadow\Shadow West</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Block Shadow\Shadow West.xnb</Output>
+      <Time>2011-04-26T16:21:22.7460738-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Util\SpeechBubble.png</Source>
+      <Name>Util\SpeechBubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Util\SpeechBubble.xnb</Output>
+      <Time>2011-04-26T16:21:22.7550743-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Star.png</Source>
+      <Name>Items\Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Items\Star.xnb</Output>
+      <Time>2011-04-26T16:21:22.7630748-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Stone Block Tall.png</Source>
+      <Name>Blocks\Stone Block Tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Stone Block Tall.xnb</Output>
+      <Time>2011-04-26T16:21:22.7730753-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Stone Block.png</Source>
+      <Name>Blocks\Stone Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Stone Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.7810758-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Tree Short.png</Source>
+      <Name>Other Terrain\Tree Short</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Tree Short.xnb</Output>
+      <Time>2011-04-26T16:21:22.7900763-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Tree Tall.png</Source>
+      <Name>Other Terrain\Tree Tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Tree Tall.xnb</Output>
+      <Time>2011-04-26T16:21:22.7990768-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Other Terrain\Tree Ugly.png</Source>
+      <Name>Other Terrain\Tree Ugly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Other Terrain\Tree Ugly.xnb</Output>
+      <Time>2011-04-26T16:21:22.8080773-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Wall Block Tall.png</Source>
+      <Name>Building\Wall Block Tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Wall Block Tall.xnb</Output>
+      <Time>2011-04-26T16:21:22.8170779-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Wall Block.png</Source>
+      <Name>Building\Wall Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Wall Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.8250783-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Water Block.png</Source>
+      <Name>Blocks\Water Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Water Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.8340788-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Building\Window Tall.png</Source>
+      <Name>Building\Window Tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Building\Window Tall.xnb</Output>
+      <Time>2011-04-26T16:21:22.8430793-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Wood Block.png</Source>
+      <Name>Blocks\Wood Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\Blocks\Wood Block.xnb</Output>
+      <Time>2011-04-26T16:21:22.8530799-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonFont.spritefont</Source>
+      <Name>ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\ButtonFont.xnb</Output>
+      <Time>2011-04-26T21:34:11.9597352-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\TitleFont.xnb</Output>
+      <Time>2011-04-26T21:45:36.6658981-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\game\gitgame2\thegame\thegame\thegameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\game\gitgame2\thegame\thegame\thegame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\game\gitgame2\thegame\thegame\thegameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\game\gitgame2\thegame\thegame\thegame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-24T20:46:22.8117076-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
